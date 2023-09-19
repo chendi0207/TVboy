@@ -1,9 +1,10 @@
+
 {
 "storeHouse":
 [
 
-{"sourceName":"网络仓库","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/TVbox666/main/tvboxbb/%E7%BD%91%E7%BB%9C.txt"},
-{"sourceName":"本地仓库","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/TVbox666/main/tvboxbb/%E6%9C%AC%E5%9C%B0.txt"}
+{"sourceName":"本地仓库","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/TVbox666/main/tvboxbb/%E6%9C%AC%E5%9C%B0.txt"},
+{"sourceName":"网络仓库","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/TVbox666/main/tvboxbb/%E7%BD%91%E7%BB%9C.txt"}
 //{"sourceName":"绿茶在线仓库","sourceUrl":"clan://localhost/TVBox/lib/99.json"},
 
 ]
