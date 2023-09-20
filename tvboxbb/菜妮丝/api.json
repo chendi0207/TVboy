@@ -17,16 +17,6 @@
             "ext": "./json/360影视.json"
         },
         {
-            "key": "全看",
-            "name": "全看影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://www.quankanw.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-            }
-        },
-        {
             "key": "豆瓣",
             "name": "豆瓣┃推荐",
             "type": 3,
