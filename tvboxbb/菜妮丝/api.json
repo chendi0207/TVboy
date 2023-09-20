@@ -16,6 +16,21 @@
             "changeable": 1,
             "ext": "./json/360影视.json"
         },
+{
+    "key": "mubai",
+    "name": "木白影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": {
+        "简介":"class=\"panel play_content\"><div class=\"title\">{$v['title']}</div><span class=\"year\">{$v['year']}</span><a href=\"{$v['link']}" target=\"_blank\">{$v['title']}</a>",      
+        "倒序":"0",       
+        "链接":"/play/+/detail/$1.html+-1-1.html",         
+        "线路数组":"class=\"tab-play\"><li>$2</li>",
+        "线路标题":"&nbsp;<span>$2</span>",    
+        "分类url":"https://m.quankanw.cc/show/$3-$4-$5--$6---$7.html",   
+        "分类": "电影<font color=red>$1</font>|电视剧<font color=blue>$2</font>|动漫<font color=green>$4</font>|综艺<font color=purple>$3</font>"
+    }
+},
         {
             "key": "豆瓣",
             "name": "豆瓣┃推荐",
