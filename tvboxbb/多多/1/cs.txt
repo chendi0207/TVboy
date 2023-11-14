@@ -265,7 +265,7 @@
       "name": "⚜️星视界线路"
     },
     {
-      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt ",
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
       "name": "⚜️人人影视线路"
     },
     {
@@ -329,11 +329,11 @@
       "name": "⚜️未知线路4"
     },
     {
-      "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0 ",
+      "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
       "name": "⚜️哔哩娱乐线路"
     },
     {
-      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e6%95%99%e8%82%b2%ef%b9%a0%e6%95%99%e7%a8%8b.txt ",
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e6%95%99%e8%82%b2%ef%b9%a0%e6%95%99%e7%a8%8b.txt",
       "name": "⚜️儿童学习线路"
     },
     {
@@ -585,8 +585,172 @@
       "url": "http://weixine.link:33/"
     },
     {
-      "name": "👭人人👙",
-      "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"
+      "name": "🌹公众号-恒星资料网",
+      "url": "https://pan.shangui.cc/f/1DdGTw/1031hxzx.txt"
+    },
+    {
+      "name": "💕4K视界💕",
+      "url": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/api/apix.json"
+    },
+    {
+      "name": "🐟今晚摸鱼🐟",
+      "url": "https://jihulab.com/moyuer/jk/-/raw/main/moyu.json"
+    },
+    {
+      "name": "🌸荷城茶锈在线🌸",
+      "url": "http://rihou.vip:88/荷城茶秀"
+    },
+    {
+      "name": "🔥火影接口🔥",
+      "url": "http://jar.lingutv.cn/tvbox/yw/yw.json"
+    },
+    {
+      "name": "💕壹梦在线💕",
+      "url": "http://qrh.yimkj.cn/ym/壹梦.json"
+    },
+    {
+      "name": "🦉讴歌",
+      "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=欧歌"
+    },
+    {
+      "name": "🎎最全短剧",
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/短剧.json"
+    },
+    {
+      "name": "🛰时光机源",
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/bestpvp/tm/main/source/stable/master_stable_github_1.json"
+    },
+    {
+      "name": "💠小重楼楼",
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/10086.json"
+    },
+    {
+      "name": "🍑业余打发",
+      "url": "http://111.67.195.139/yydf/yyffjk.json"
+    },
+    {
+      "name": "🥃业余打發",
+      "url": "http://ftp6587948.host121.sanfengyun.cn/yydf/yydfjk.json"
+    },
+    {
+      "name": "🥘集多影视",
+      "url": "http://52bsj.vip:81/api/v3/file/get/172217/jjys.json?sign=2ItQtrL0BaXJQ8G9tHrLDKu9DHelzT7u7zCJ3f1v8jo%3D%3A0"
+    },
+    {
+      "name": "💧高山流水",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"
+    },
+    {
+      "name": "💦小桥流水",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json"
+    },
+    {
+      "url": "https://agit.ai/376242575/line1/raw/branch/master/line1.json",
+      "name": "🧛‍♂️人人资源"
+    },
+    {
+      "url": "http://biu.alwaysdata.net/box.json",
+      "name": "🦊牛大佬源"
+    },
+    {
+      "url": "https://agit.ai/sejinan/app/raw/branch/box/1.m3u8",
+      "name": "🐻沃影主站"
+    },
+    {
+      "name": "🍀春盈接口",
+      "url": "http://wp.anxwl.cn/down.php/245a89be183aeddb85d1501ed5eb3260.json"
+    },
+    {
+      "name": "🍄cat满接口",
+      "url": "http://122.51.37.23/man/cally4.xx.json"
+    },
+    {
+      "name": "🎁月光宝盒",
+      "url": "https://agit.ai/guot54/ygbh/raw/branch/master/pro%e5%8e%9f.json"
+    },
+    {
+      "name": "🐺猎狼影视",
+      "url": "https://www.lltv8.top"
+    },
+    {
+      "name": "☔️缘聚缘散",
+      "url": "https://agit.ai/alanchaotang/if/raw/branch/main/X.json"
+    },
+    {
+      "name": "🌪海风线路",
+      "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/00.json"
+    },
+    {
+      "name": "🌪海风爱腾",
+      "url": "https://agit.ai/haifeng2777/TVB/raw/branch/master/TVBOX/8.json"
+    },
+    {
+      "name": "🌿Cat接口",
+      "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json"
+    },
+    {
+      "name": "🏁速度搜索",
+      "url": "http://52bsj.vip:81/api/v3/file/get/172234/%E6%98%9F%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%93%E5%BA%93%E5%86%85%E5%AE%B9.txt?sign=qZLVlqUfttYuVJdIw75KcAdx_ZzeZSJgKdmcba48U3U%3D%3A0"
+    },
+    {
+      "name": "🌈盐枭接口",
+      "url": "https://9xi4o.tk/tvbox.json"
+    },
+    {
+      "name": "🛀🏻影音天堂",
+      "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json"
+    },
+    {
+      "name": "🥃荷城茶秀",
+      "url": "http://rihou.cc:88/荷城茶秀"
+    },
+    {
+      "name": "🍭徐徐影视",
+      "url": "http://xutv.hz.cz/tv/xu106.txt"
+    },
+    {
+      "name": "🏩源来享家",
+      "url": "https://box.000913.xyz/230924"
+    },
+    {
+      "name": "🐝蜂窝接口",
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json"
+    },
+    {
+      "name": "🍑水蜜桃桃",
+      "url": "http://shixiong.alwaysdata.net/m.json"
+    },
+    {
+      "name": "💎TTF接口",
+      "url": "https://agit.ai/Doudou/TVbox/raw/branch/master/intf/intf_1.json"
+    },
+    {
+      "name": "🌮于氏影业",
+      "url": "https://agit.ai/sejinan/app/raw/branch/box/yu"
+    },
+    {
+      "name": "🎀熊猫接口",
+      "url": "https://s2.pub/xmbjmxdc"
+    },
+    {
+      "name": "📮好人接口",
+      "url": "https://xhdwc.tk/0"
+    },
+    {
+      "name": "🌹乐享接口",
+      "url": "https://agit.ai/tsparkour/nmys/raw/branch/master/qt/lxys.json"
+    },
+    {
+      "name": "💛猫技接口",
+      "url": "https://agit.ai/ddx/nmys/raw/branch/master/feimao.json"
+    },
+    {
+      "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt",
+      "name": "🍔美食专线"
+    },
+    {
+      "url": "https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+      "name": "📕教育专线"
     }
   ]
 }
