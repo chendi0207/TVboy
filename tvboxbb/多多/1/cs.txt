@@ -4,11 +4,7 @@
       "name": "🐼肥猫宝贝👙",
       "url": "http://肥猫.live"
     },
-    {
-      "name": "💗锦哥",
-      "url": "http://jin.锦哥哥.love"
-    },
-    {
+   {
       "name": "💕全部4k资源",
       "url": "https://codeberg.org/hengxing/hx/raw/branch/main/qb4k.txt"
     },
@@ -47,6 +43,10 @@
     {
       "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index2&jar=index2&123&b=欧歌",
       "name": "⚜️讴歌家庭线路"
+    },
+     {
+      "name": "💗锦哥",
+      "url": "http://jin.锦哥哥.love"
     },
     {
       "name": "🐯精简👙",
