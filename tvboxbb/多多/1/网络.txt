@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
+{ "urls": [{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 
 { "url": "http://xxxoo.shop/", "name": "精品路线" },
 
