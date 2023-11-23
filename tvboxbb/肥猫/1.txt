@@ -20,7 +20,7 @@
 
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/菜妮丝/api.json", "name": "菜妮丝" },
 
-{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/巧儿/api.json", "name": "巧儿" },
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/chendi0207/TVboy/main/tvboxbb/巧技/api.json", "name": "巧技" },
         
 { "url": "https://ghproxy.net/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 
