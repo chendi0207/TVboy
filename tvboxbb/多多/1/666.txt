@@ -58,7 +58,7 @@
     },
     {
       "name": "💙群新荟萃",
-      "url": "https://ghproxy.homeboyc.cn/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
+      "url": "https://cwb0207.online/https://raw.githubusercontent.com/yydfys/yydf/main/yydf/yydf.json"
     },
     {
       "name": "👅非凡",
