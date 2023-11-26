@@ -1,5 +1,7 @@
 { "urls": [{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 
+{ "url": "https://123.155123.xyz/996.json", "name": "秒播路线" },
+
 { "url": "http://xxxoo.shop/", "name": "精品路线" },
 
 { "url": "https://www.tv555.cc/tv/XC.json", "name": "万达影视" },
