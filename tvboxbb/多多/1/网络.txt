@@ -1,4 +1,4 @@
-{ "urls": [{ "url": "https://cwb0207.online/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
+{ "urls": [{ "url": "https://gh.cwb0207.online/https://raw.githubusercontent.com/niubihu1/tvbox-/main/1.json", "name": "👇以下为网络收集线路👇"},
 
 { "url": "https://123.155123.xyz/996.json", "name": "秒播路线" },
 
